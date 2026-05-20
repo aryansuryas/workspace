@@ -1,2 +1,2 @@
 # workspace
-This repo contains
+This repo contains the smaple
