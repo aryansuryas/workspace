@@ -1,2 +1,2 @@
 # workspace
-This repo contains the sample things req
+This repo contains the sample things repo to use
